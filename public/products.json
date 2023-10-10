@@ -1,0 +1,183 @@
+[
+    {
+      "img": "https://images.unsplash.com/photo-1534732806146-b3bf32171b48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRveSUyMGNhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "name": "Mahindra Thar",
+      "price": 19,
+      "rating": 4.5,
+      "sellerName": "Tumpa",
+      "seller_mail": "tumpa@gmail.com",
+      "available": 10,
+      "category": "Car"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzApFuJ0_Ky9_Ir86xGI-oWf2IgH5jDy0OUw&usqp=CAU",
+      "name": "Kolegend Remote Control",
+      "price": 29,
+      "rating": 4.0,
+      "sellerName": "Tumpa",
+      "seller_mail": "tumpa@gmail.com",
+      "available": 5,
+      "category": "Truck"
+    },
+    {
+      "img": "https://img.freepik.com/premium-psd/rideon-vintage-toy-mockup_1332-11230.jpg?size=626&ext=jpg&ga=GA1.1.1521470189.1696591537&semt=ais",
+      "name": "Lifelong Mybuddy Cycle 16T",
+      "price": 14,
+      "rating": 3.8,
+      "sellerName": "Tumpa",
+      "seller_mail": "tumpa@gmail.com",
+      "available": 8,
+      "category": "Motor"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlJP7Svj0RxD4Jj5fnSjLqJOw1iHlSgXgtA&usqp=CAU",
+      "name": "Tata Nexon",
+      "price": 24,
+      "rating": 4.7,
+      "sellerName": "Tumpa",
+      "seller_mail": "tumpa@gmail.com",
+      "available": 15,
+      "category": "Car"
+    },
+    {
+      "img": "https://t4.ftcdn.net/jpg/01/60/45/01/240_F_160450154_j1juMWX5sGvNO9P8NH6hUI3brm24HaPr.jpg",
+      "name": "Light Up Monster Truck Set",
+      "price": 39,
+      "rating": 4.2,
+      "sellerName": "Tumpa",
+      "seller_mail": "tumpa@gmail.com",
+      "available": 3,
+      "category": "Truck"
+    },
+    {
+      "img": "https://img.freepik.com/free-vector/watercolor-pink-tricycle-illustration_23-2149719705.jpg?size=626&ext=jpg&ga=GA1.1.1521470189.1696591537&semt=ais",
+      "name": "Lifelong LLBC2001 Tribe",
+      "price": 9,
+      "rating": 3.5,
+      "sellerName": "Tumpa",
+      "seller_mail": "tumpa@gmail.com",
+      "available": 12,
+      "category": "Motor"
+    },
+    {
+      "img": "https://img.freepik.com/premium-photo/vintage-80-s-90-s-toys-yellow-pink-blue-laid-out-table-used-brazil-by-kids-wh_908985-26268.jpg?size=626&ext=jpg&ga=GA1.1.1521470189.1696591537&semt=ais",
+      "name": "Maruti Swift",
+      "price": 34,
+      "rating": 4.9,
+      "sellerName": "Tumpa",
+      "seller_mail": "tumpa@gmail.com",
+      "available": 7,
+      "category": "Car"
+    },
+    {
+      "img": "https://t3.ftcdn.net/jpg/04/54/92/36/240_F_454923674_v6hpncW2ycBqyy1sosBTg2yY4Owrczus.jpg",
+      "name": "Best Swiveling Ladder",
+      "price": 49,
+      "rating": 4.4,
+      "sellerName": "Tumpa",
+      "seller_mail": "tumpa@gmail.com",
+      "available": 2,
+      "category": "Truck"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/pink-tricycle-icon-isometric-3d-style-white-background_96318-11663.jpg?size=626&ext=jpg&ga=GA1.1.1521470189.1696591537&semt=ais",
+      "name": "Leader Kids 20T Road Bike",
+      "price": 19,
+      "rating": 3.6,
+      "sellerName": "Tumpa",
+      "seller_mail": "tumpa@gmail.com",
+      "available": 10,
+      "category": "Motor"
+    },
+    {
+      "img": "https://img.freepik.com/premium-photo/funny-illustrated-car-painted-rainbow-colors_183364-23794.jpg?size=626&ext=jpg&ga=GA1.1.1521470189.1696591537&semt=ais",
+      "name": "Hyundai Exter",
+      "price": 29,
+      "rating": 4.6,
+      "sellerName": "Waliullah",
+      "seller_mail": "waliullah@gmail.com",
+      "available": 20,
+      "category": "Car"
+    },
+    {
+      "img": "https://img.freepik.com/free-photo/green-easter-car-with-blue-egg_23-2149301293.jpg?size=626&ext=jpg&ga=GA1.1.1521470189.1696591537&semt=ais",
+      "name": "Best Anti-Jamming",
+      "price": 14,
+      "rating": 3.9,
+      "sellerName": "Waliullah",
+      "seller_mail": "waliullah@gmail.com",
+      "available": 5,
+      "category": "Truck"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/red-tricycle-icon-cartoon-red-tricycle-vector-icon-web-design-isolated-white-background_98402-30857.jpg?size=626&ext=jpg&ga=GA1.1.1521470189.1696591537&semt=ais",
+      "name": "Treaz Straton 16T Kids",
+      "price": 24,
+      "rating": 4.3,
+      "sellerName": "Waliullah",
+      "seller_mail": "waliullah@gmail.com",
+      "available": 8,
+      "category": "Motor"
+    },
+    {
+      "img": "https://img.freepik.com/premium-photo/toy-car-white-background-generative-ai_849906-19304.jpg?size=626&ext=jpg&ga=GA1.1.1521470189.1696591537&semt=ais",
+      "name": "Toyota Innova Crysta",
+      "price": 39,
+      "rating": 4.8,
+      "sellerName": "Waliullah",
+      "seller_mail": "waliullah@gmail.com",
+      "available": 30,
+      "category": "Car"
+    },
+    {
+      "img": "https://img.freepik.com/premium-psd/children-s-dump-truck-with-cargo-toy-truck-isolated-transparent-background_901492-417.jpg?size=626&ext=jpg&ga=GA1.2.1521470189.1696591537&semt=ais",
+      "name": "Coogam 4 Pack Friction",
+      "price": 9,
+      "rating": 3.7,
+      "sellerName": "Waliullah",
+      "seller_mail": "waliullah@gmail.com",
+      "available": 4,
+      "category": "Truck"
+    },
+    {
+      "img": "https://img.freepik.com/free-vector/hand-drawn-tricycle-illustration_23-2149726600.jpg?size=626&ext=jpg&ga=GA1.1.1521470189.1696591537&semt=ais",
+      "name": "Beetle Panache 16T Kids Bike",
+      "price": 34,
+      "rating": 4.1,
+      "sellerName": "Waliullah",
+      "seller_mail": "waliullah@gmail.com",
+      "available": 15,
+      "category": "Motor"
+    },
+    {
+      "img": "https://t4.ftcdn.net/jpg/05/79/67/91/240_F_579679130_GlRBJDPbDTZZTICQsPXhsvViFemrcPf5.jpg",
+      "name": "Toyota Fortuner",
+      "price": 49,
+      "rating": 4.0,
+      "sellerName": "Waliullah",
+      "seller_mail": "waliullah@gmail.com",
+      "available": 8,
+      "category": "Car"
+    },
+    {
+      "img": "https://img.freepik.com/premium-photo/dump-track-toy-loaded-with-blocks_470606-617.jpg?size=626&ext=jpg&ga=GA1.2.1521470189.1696591537&semt=ais",
+      "name": "Green Toys Dump Truck",
+      "price": 19,
+      "rating": 3.4,
+      "sellerName": "Waliullah",
+      "seller_mail": "waliullah@gmail.com",
+      "available": 2,
+      "category": "Truck"
+    },
+    {
+      "img": "https://img.freepik.com/premium-vector/childrens-training-tricycle-with-pushing-arm-flat-vector-illustration-isolated_181313-1550.jpg?size=626&ext=jpg&ga=GA1.1.1521470189.1696591537&semt=ais",
+      "name": "Lee Champ X Sporty",
+      "price": 19,
+      "rating": 3.4,
+      "sellerName": "Waliullah",
+      "seller_mail": "waliullah@gmail.com",
+      "available": 2,
+      "category": "Motor"
+    }
+  ]
+  
