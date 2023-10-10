@@ -1,13 +1,16 @@
 import { useContext } from "react";
 import { AiFillGithub } from "react-icons/ai";
 import { FcGoogle } from "react-icons/fc";
-import { Link } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import { AuthContext } from "../Providers/AuthProvider";
 import Swal from "sweetalert2";
 
 
 const Login = () => {
     const {signIn, googleSignIn, githubLogIn} = useContext(AuthContext);
+    const location = useLocation();
+    const navigate = useNavigate();
+    const from = location.state?.from?.pathname || '/';
 
     const handleLoginForm = (event) => {
         event.preventDefault();
@@ -20,6 +23,7 @@ const Login = () => {
         .then(result => {
             const user = result.user;
             console.log(user);
+            navigate(from, {replace: true})
         })
         .catch(err => console.error(err))
     }
@@ -37,6 +41,7 @@ const Login = () => {
                 showConfirmButton: false,
                 timer: 1500
               })
+              navigate(from, {replace: true});
         })
         .catch(err => console.error(err))
     }
@@ -53,6 +58,7 @@ const Login = () => {
                 showConfirmButton: false,
                 timer: 1500
               })
+              navigate(from, {replace: true});
         })
         .catch(err => console.error(err))
     }

@@ -1,12 +1,15 @@
 import { useContext } from "react";
 import { AiFillGithub } from "react-icons/ai";
 import { FcGoogle } from "react-icons/fc";
-import { Link } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import { AuthContext } from "../Providers/AuthProvider";
 import Swal from "sweetalert2";
  
 const SignUp = () => {
     const {createUser, googleSignIn, githubLogIn} = useContext(AuthContext);
+    const navigate = useNavigate();
+    const location = useLocation();
+    const from = location.state?.from?.pathname || '/';
     const handleSignUpForm = (event) => {
         event.preventDefault();
         const form = event.target;
@@ -19,6 +22,7 @@ const SignUp = () => {
         .then(result => {
             const user = result.user;
             console.log(user);
+            navigate(from, {replace: true});
             Swal.fire({
                 position: 'top-end',
                 icon: 'success',
@@ -34,6 +38,7 @@ const SignUp = () => {
         .then(result => {
             const user = result.user;
             console.log(user);
+            navigate(from, {replace: true});
         })
         .catch(err => console.error(err))
     }
